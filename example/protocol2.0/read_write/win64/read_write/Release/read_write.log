@@ -1,0 +1,158 @@
+﻿  read_write.cpp
+c:\users\선종현\desktop\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(57): warning C4251: 'dynamixel::GroupBulkRead::id_list_': class 'std::vector<uint8_t,std::allocator<_Ty>>'에서는 class 'dynamixel::GroupBulkRead'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 합니다.
+          with
+          [
+              _Ty=uint8_t
+          ]
+  c:\users\선종현\desktop\dynamixelsdk\c++\include\dynamixel_sdk\packet_handler.h(227): note: 'std::vector<uint8_t,std::allocator<_Ty>>' 선언을 참조하십시오.
+          with
+          [
+              _Ty=uint8_t
+          ]
+c:\users\선종현\desktop\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(58): warning C4251: 'dynamixel::GroupBulkRead::address_list_': class 'std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>'에서는 class 'dynamixel::GroupBulkRead'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 합니다.
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+  c:\users\선종현\desktop\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(58): note: 'std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' 선언을 참조하십시오.
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+c:\users\선종현\desktop\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(59): warning C4251: 'dynamixel::GroupBulkRead::length_list_': class 'std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>'에서는 class 'dynamixel::GroupBulkRead'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 합니다.
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+  c:\users\선종현\desktop\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(58): note: 'std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' 선언을 참조하십시오.
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+c:\users\선종현\desktop\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(60): warning C4251: 'dynamixel::GroupBulkRead::data_list_': class 'std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>'에서는 class 'dynamixel::GroupBulkRead'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 합니다.
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+  c:\users\선종현\desktop\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(60): note: 'std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' 선언을 참조하십시오.
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+c:\users\선종현\desktop\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_write.h(57): warning C4251: 'dynamixel::GroupBulkWrite::id_list_': class 'std::vector<uint8_t,std::allocator<_Ty>>'에서는 class 'dynamixel::GroupBulkWrite'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 합니다.
+          with
+          [
+              _Ty=uint8_t
+          ]
+  c:\users\선종현\desktop\dynamixelsdk\c++\include\dynamixel_sdk\packet_handler.h(227): note: 'std::vector<uint8_t,std::allocator<_Ty>>' 선언을 참조하십시오.
+          with
+          [
+              _Ty=uint8_t
+          ]
+c:\users\선종현\desktop\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_write.h(58): warning C4251: 'dynamixel::GroupBulkWrite::address_list_': class 'std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>'에서는 class 'dynamixel::GroupBulkWrite'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 합니다.
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+  c:\users\선종현\desktop\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(58): note: 'std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' 선언을 참조하십시오.
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+c:\users\선종현\desktop\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_write.h(59): warning C4251: 'dynamixel::GroupBulkWrite::length_list_': class 'std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>'에서는 class 'dynamixel::GroupBulkWrite'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 합니다.
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+  c:\users\선종현\desktop\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(58): note: 'std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' 선언을 참조하십시오.
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+c:\users\선종현\desktop\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_write.h(60): warning C4251: 'dynamixel::GroupBulkWrite::data_list_': class 'std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>'에서는 class 'dynamixel::GroupBulkWrite'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 합니다.
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+  c:\users\선종현\desktop\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(60): note: 'std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' 선언을 참조하십시오.
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+c:\users\선종현\desktop\dynamixelsdk\c++\include\dynamixel_sdk\group_sync_read.h(57): warning C4251: 'dynamixel::GroupSyncRead::id_list_': class 'std::vector<uint8_t,std::allocator<_Ty>>'에서는 class 'dynamixel::GroupSyncRead'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 합니다.
+          with
+          [
+              _Ty=uint8_t
+          ]
+  c:\users\선종현\desktop\dynamixelsdk\c++\include\dynamixel_sdk\packet_handler.h(227): note: 'std::vector<uint8_t,std::allocator<_Ty>>' 선언을 참조하십시오.
+          with
+          [
+              _Ty=uint8_t
+          ]
+c:\users\선종현\desktop\dynamixelsdk\c++\include\dynamixel_sdk\group_sync_read.h(58): warning C4251: 'dynamixel::GroupSyncRead::data_list_': class 'std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>'에서는 class 'dynamixel::GroupSyncRead'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 합니다.
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+  c:\users\선종현\desktop\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(60): note: 'std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' 선언을 참조하십시오.
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+c:\users\선종현\desktop\dynamixelsdk\c++\include\dynamixel_sdk\group_sync_write.h(57): warning C4251: 'dynamixel::GroupSyncWrite::id_list_': class 'std::vector<uint8_t,std::allocator<_Ty>>'에서는 class 'dynamixel::GroupSyncWrite'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 합니다.
+          with
+          [
+              _Ty=uint8_t
+          ]
+  c:\users\선종현\desktop\dynamixelsdk\c++\include\dynamixel_sdk\packet_handler.h(227): note: 'std::vector<uint8_t,std::allocator<_Ty>>' 선언을 참조하십시오.
+          with
+          [
+              _Ty=uint8_t
+          ]
+c:\users\선종현\desktop\dynamixelsdk\c++\include\dynamixel_sdk\group_sync_write.h(58): warning C4251: 'dynamixel::GroupSyncWrite::data_list_': class 'std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>'에서는 class 'dynamixel::GroupSyncWrite'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 합니다.
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+  c:\users\선종현\desktop\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(60): note: 'std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' 선언을 참조하십시오.
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+..\..\read_write.cpp(88): warning C4273: 'getch': dll 링크가 일치하지 않습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\conio.h(452): note: 'getch'의 이전 정의를 참조하십시오.
+..\..\read_write.cpp(105): warning C4273: 'kbhit': dll 링크가 일치하지 않습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\conio.h(458): note: 'kbhit'의 이전 정의를 참조하십시오.
+..\..\read_write.cpp(163): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+..\..\read_write.cpp(187): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  ..\..\read_write.cpp(87): note: 'getch' 선언을 참조하십시오.
+..\..\read_write.cpp(200): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  ..\..\read_write.cpp(87): note: 'getch' 선언을 참조하십시오.
+..\..\read_write.cpp(264): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdlib.h(1282): note: '_sleep' 선언을 참조하십시오.
+..\..\read_write.cpp(158): warning C4101: 'inputString' :참조되지 않은 지역 변수입니다.
+..\..\read_write.cpp(152): warning C4101: 'goal_degree' :참조되지 않은 지역 변수입니다.
+     C:\Users\선종현\Desktop\DynamixelSDK\c++\example\protocol2.0\read_write\win64\Release\read_write.lib 라이브러리 및 C:\Users\선종현\Desktop\DynamixelSDK\c++\example\protocol2.0\read_write\win64\Release\read_write.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+  1 of 137 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  read_write.vcxproj -> C:\Users\선종현\Desktop\DynamixelSDK\c++\example\protocol2.0\read_write\win64\Release\read_write.exe
+  read_write.vcxproj -> C:\Users\선종현\Desktop\DynamixelSDK\c++\example\protocol2.0\read_write\win64\Release\read_write.pdb (Full PDB)
